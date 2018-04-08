@@ -1,0 +1,11 @@
+Papers 
+
+- WaveNet: A Generative Model for Raw Audio (https://arxiv.org/abs/1609.03499) [x]
+- Pixel Recurrent Neural Networks (https://arxiv.org/abs/1601.06759) [x]
+- Conditional Image Generation with PixelCNN Decoders (https://arxiv.org/abs/1606.05328) [x]
+
+Repos 
+
+- pixelcnn (https://github.com/openai/pixel-cnn) 
+- pixelcnn decoder (https://github.com/anantzoid/Conditional-PixelCNN-decoder)
+
