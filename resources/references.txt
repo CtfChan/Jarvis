@@ -8,4 +8,7 @@ Repos
 
 - pixelcnn (https://github.com/openai/pixel-cnn) 
 - pixelcnn decoder (https://github.com/anantzoid/Conditional-PixelCNN-decoder)
+- PointNet (https://github.com/charlesq34/pointnet) 
+
+
 
